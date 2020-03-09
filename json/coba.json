@@ -1,0 +1,32 @@
+[
+    {
+        "nama": "Indra Maulana Yasya",
+        "umur": 19,
+        "nrp": "1290192838",
+        "lulus": true,
+        "hobby": [
+            "ngoding",
+            "design",
+            "menulis"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Pak Bill",
+            "pembimbing2": "Pak Elon"
+        }
+    },
+    {
+        "nama": "Afifan Hakim",
+        "umur": 19,
+        "nrp": "1290192838",
+        "lulus": true,
+        "hobby": [
+            "ngoding",
+            "design",
+            "menulis"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Pak Bill",
+            "pembimbing2": "Pak Elon"
+        }
+    }
+]
